@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "797435626960",
+    "project_id": "signin-example-c4aa9",
+    "storage_bucket": "signin-example-c4aa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797435626960:android:ce849f23aaf8f68b18a5d5",
+        "android_client_info": {
+          "package_name": "com.example.habbit_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV_CqYJmgwgW1F78VtzYA7QLtCRnX9Y4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
